@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		94BD7D992812C177003E2247 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BD7D982812C177003E2247 /* main.swift */; };
+		94BD7DA02812C1F9003E2247 /* Technique.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BD7D9F2812C1F9003E2247 /* Technique.swift */; };
+		94BD7DA22812D053003E2247 /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BD7DA12812D053003E2247 /* Car.swift */; };
+		94BD7DA42812D071003E2247 /* Smartphone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BD7DA32812D071003E2247 /* Smartphone.swift */; };
+		94BD7DA62812D08F003E2247 /* Notebook.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BD7DA52812D08F003E2247 /* Notebook.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +29,10 @@
 /* Begin PBXFileReference section */
 		94BD7D952812C177003E2247 /* dz3lesson3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = dz3lesson3; sourceTree = BUILT_PRODUCTS_DIR; };
 		94BD7D982812C177003E2247 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		94BD7D9F2812C1F9003E2247 /* Technique.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Technique.swift; sourceTree = "<group>"; };
+		94BD7DA12812D053003E2247 /* Car.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
+		94BD7DA32812D071003E2247 /* Smartphone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Smartphone.swift; sourceTree = "<group>"; };
+		94BD7DA52812D08F003E2247 /* Notebook.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notebook.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +66,10 @@
 			isa = PBXGroup;
 			children = (
 				94BD7D982812C177003E2247 /* main.swift */,
+				94BD7D9F2812C1F9003E2247 /* Technique.swift */,
+				94BD7DA12812D053003E2247 /* Car.swift */,
+				94BD7DA32812D071003E2247 /* Smartphone.swift */,
+				94BD7DA52812D08F003E2247 /* Notebook.swift */,
 			);
 			path = dz3lesson3;
 			sourceTree = "<group>";
@@ -120,7 +132,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				94BD7DA42812D071003E2247 /* Smartphone.swift in Sources */,
+				94BD7DA02812C1F9003E2247 /* Technique.swift in Sources */,
 				94BD7D992812C177003E2247 /* main.swift in Sources */,
+				94BD7DA22812D053003E2247 /* Car.swift in Sources */,
+				94BD7DA62812D08F003E2247 /* Notebook.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
